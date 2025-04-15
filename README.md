@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">:clock130: Started in December 2024<br><br>📚 Currently studying Python and taking Harvard's CS50, next up is Java<br><br>🎯 My goal is to study Computer Science abroad and land a job in the field</p>
+<p align="left">:clock130: Started in December 2024<br><br>📚 Currently studying Java, next up is web development<br><br>🎯 My goal is to study Computer Science abroad and land a job in the field</p>
 
 ###
 

@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">:clock130: Started in December 2024<br><br>📚 Currently studying Java, next up is Front-End<br><br>🎯 My goal is to study Computer Science abroad and land a job in the field</p>
+<p align="left">:clock130: Started in December 2024<br><br>📚 Currently studying Front-End, after that i will do projects to test my knowledge<br><br>🎯 My goal is to study Computer Science and land a job in the field</p>
 
 ###
 

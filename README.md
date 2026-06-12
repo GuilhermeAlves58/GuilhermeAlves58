@@ -106,7 +106,3 @@ Tenho paixão especial por **back-end**: resolver problemas complexos, arquiteta
 | 🇪🇸 Espanhol | Básico |
 
 ---
-
-<p align="center">
-  Feito com 💚 por <a href="https://github.com/GuilhermeAlves58">Guilherme Marcondes</a>
-</p>
